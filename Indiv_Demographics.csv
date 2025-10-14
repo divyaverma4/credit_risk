@@ -1,0 +1,101 @@
+Age,Education,Location,Marital Status,Citizenship,Name,Account Number,Customer ID
+22,Bachelor,Remote,Widowed,Non-Resident,Ava Thompson,4829102734,CUST-1001
+43,High School,NY,Widowed,Work Visa,Liam Rodriguez,1938475620,CUST-1002
+34,High School,TX,Divorced,Work Visa,Emma Patel,9283746150,CUST-1003
+49,PhD,Offshore,Divorced,Work Visa,Noah Kim,3748291056,CUST-1004
+53,High School,TX,Divorced,Non-Resident,Olivia Nguyen,8473629105,CUST-1005
+65,High School,CA,Married,Work Visa,James Carter,1029384756,CUST-1006
+33,High School,Remote,Widowed,Permanent Resident,Sophia Lee,5647382910,CUST-1007
+47,Master,TX,Single,Citizen,Benjamin Scott,8374651920,CUST-1008
+79,PhD,CA,Married,Work Visa,Isabella Green,2938475610,CUST-1009
+74,High School,CA,Single,Work Visa,Elijah Wright,9182736450,CUST-1010
+80,High School,TX,Widowed,Permanent Resident,Mia Adams,3847561029,CUST-1011
+75,PhD,Offshore,Married,Non-Resident,Lucas Rivera,8473629102,CUST-1012
+46,Master,CA,Married,Non-Resident,Charlotte Hall,1029384751,CUST-1013
+27,Bachelor,IL,Widowed,Citizen,Henry Baker,5647382912,CUST-1014
+31,Bachelor,Offshore,Widowed,Citizen,Amelia Torres,8374651923,CUST-1015
+72,High School,TX,Widowed,Work Visa,Alexander Cox,2938475612,CUST-1016
+45,High School,TX,Divorced,Work Visa,Harper Morgan,9182736452,CUST-1017
+43,PhD,TX,Divorced,Non-Resident,Ethan Bell,3847561021,CUST-1018
+30,Bachelor,NY,Widowed,Permanent Resident,Evelyn Murphy,8473629103,CUST-1019
+29,Bachelor,NY,Widowed,Non-Resident,Logan Foster,1029384752,CUST-1020
+67,PhD,TX,Married,Work Visa,Abigail Price,5647382913,CUST-1021
+37,Bachelor,CA,Married,Work Visa,Jackson Reed,8374651924,CUST-1022
+63,PhD,FL,Divorced,Work Visa,Ella Hughes,2938475613,CUST-1023
+34,Master,FL,Married,Permanent Resident,Aiden Perry,9182736453,CUST-1024
+62,High School,IL,Widowed,Work Visa,Scarlett Butler,3847561022,CUST-1025
+48,Bachelor,IL,Single,Work Visa,Matthew Bailey,8473629104,CUST-1026
+62,High School,TX,Married,Non-Resident,Grace Coleman,1029384753,CUST-1027
+77,PhD,Offshore,Married,Permanent Resident,Daniel Bryant,5647382914,CUST-1028
+79,PhD,IL,Single,Work Visa,Chloe Sanders,8374651925,CUST-1029
+75,Master,Offshore,Single,Non-Resident,Michael Long,2938475614,CUST-1030
+19,PhD,TX,Widowed,Non-Resident,Zoey Russell,9182736454,CUST-1031
+39,PhD,FL,Widowed,Permanent Resident,Sebastian Wood,3847561023,CUST-1032
+37,PhD,IL,Single,Work Visa,Lily West,8473629106,CUST-1033
+47,Master,IL,Married,Work Visa,Jack Stone,1029384754,CUST-1034
+66,PhD,Remote,Divorced,Permanent Resident,Aria Chapman,5647382915,CUST-1035
+41,Master,TX,Divorced,Non-Resident,Owen Grant,8374651926,CUST-1036
+56,Master,Offshore,Single,Permanent Resident,Natalie Warren,2938475615,CUST-1037
+40,High School,CA,Married,Non-Resident,Carter Hayes,9182736455,CUST-1038
+63,Master,Offshore,Widowed,Permanent Resident,Zoey Simmons,3847561024,CUST-1039
+55,High School,Offshore,Divorced,Citizen,Wyatt Powell,8473629107,CUST-1040
+43,Master,CA,Widowed,Work Visa,Hannah Bryant,1029384755,CUST-1041
+63,Bachelor,NY,Divorced,Non-Resident,Luke Jenkins,5647382916,CUST-1042
+44,High School,TX,Widowed,Work Visa,Victoria Lane,8374651927,CUST-1043
+69,High School,Offshore,Widowed,Permanent Resident,Julian Ford,2938475616,CUST-1044
+47,Master,TX,Divorced,Non-Resident,Nora Kennedy,9182736456,CUST-1045
+73,High School,IL,Divorced,Non-Resident,Levi Spencer,3847561025,CUST-1046
+64,Master,IL,Single,Permanent Resident,Stella Bishop,8473629108,CUST-1047
+35,High School,NY,Married,Citizen,Isaac Holland,1029384756,CUST-1048
+49,High School,Remote,Single,Non-Resident,Zoe Marsh,5647382917,CUST-1049
+36,Bachelor,Remote,Widowed,Non-Resident,Gabriel Doyle,8374651928,CUST-1050
+39,High School,FL,Widowed,Citizen,Penelope Walsh,3847561026,CUST-1051
+45,High School,CA,Married,Non-Resident,Caleb Harmon,8473629109,CUST-1052
+54,Master,IL,Married,Citizen,Aurora Fleming,1029384757,CUST-1053
+41,High School,Remote,Widowed,Permanent Resident,Nathaniel Boone,5647382918,CUST-1054
+35,Bachelor,NY,Divorced,Citizen,Lucy McBride,8374651929,CUST-1055
+53,High School,CA,Divorced,Work Visa,Dylan Vance,2938475617,CUST-1056
+63,Master,IL,Widowed,Non-Resident,Ellie McCoy,9182736457,CUST-1057
+50,High School,Offshore,Widowed,Work Visa,Asher Pratt,3847561027,CUST-1058
+80,Master,CA,Married,Permanent Resident,Hazel Morrow,8473629110,CUST-1059
+33,Bachelor,FL,Married,Non-Resident,Leo Finley,1029384758,CUST-1060
+44,High School,NY,Widowed,Non-Resident,Violet Henson,5647382919,CUST-1061
+80,High School,CA,Widowed,Permanent Resident,Lincoln Duffy,8374651930,CUST-1062
+54,Master,TX,Single,Work Visa,Audrey Phelps,2938475618,CUST-1063
+37,PhD,CA,Single,Citizen,Miles Gentry,9182736458,CUST-1064
+42,High School,Remote,Widowed,Work Visa,Claire Riddle,3847561028,CUST-1065
+36,High School,Remote,Married,Citizen,Weston Avery,8473629111,CUST-1066
+24,PhD,NY,Divorced,Work Visa,Sadie Hodge,1029384759,CUST-1067
+53,Bachelor,NY,Widowed,Citizen,Elias McClure,5647382920,CUST-1068
+71,Master,NY,Divorced,Citizen,Bella Kinney,8374651931,CUST-1069
+28,High School,IL,Married,Work Visa,Aaron Whitley,2938475619,CUST-1070
+75,Bachelor,IL,Widowed,Work Visa,Lydia Raines,9182736459,CUST-1071
+25,PhD,Offshore,Married,Non-Resident,Rowan Talbot,3847561029,CUST-1072
+46,PhD,Remote,Married,Work Visa,Julia Corbin,8473629112,CUST-1073
+57,Master,Remote,Divorced,Citizen,Adam Larkin,1029384760,CUST-1074
+30,PhD,Remote,Single,Work Visa,Ruby Ellison,5647382921,CUST-1075
+59,Master,Offshore,Married,Work Visa,Finn Delaney,8374651932,CUST-1076
+36,Master,NY,Single,Work Visa,Kennedy Mays,2938475620,CUST-1077
+35,PhD,TX,Divorced,Non-Resident,Theo Landry,9182736460,CUST-1078
+52,Bachelor,TX,Single,Work Visa,Peyton Glover,3847561030,CUST-1079
+54,PhD,IL,Single,Non-Resident,Elias Monroe,8473629113,CUST-1080
+52,Master,CA,Married,Non-Resident,Isla Herring,1029384761,CUST-1081
+66,High School,Remote,Widowed,Non-Resident,Brooks Conley,5647382922,CUST-1082
+56,Bachelor,IL,Widowed,Non-Resident,Delilah Pruitt,8374651933,CUST-1083
+37,Bachelor,TX,Divorced,Citizen,Graham Stokes,2938475621,CUST-1084
+23,PhD,NY,Single,Permanent Resident,Eva McMillan,9182736461,CUST-1085
+60,Master,IL,Married,Work Visa,Ryder Holcomb,3847561031,CUST-1086
+65,PhD,NY,Divorced,Citizen,Naomi Blevins,8473629114,CUST-1087
+36,Bachelor,Offshore,Single,Citizen,Beckett Rhoades,1029384762,CUST-1088
+51,PhD,NY,Single,Permanent Resident,Madeline Duran,5647382923,CUST-1089
+46,PhD,CA,Widowed,Work Visa,Knox Ellsworth,8374651934,CUST-1090
+27,Master,Offshore,Divorced,Citizen,Piper Landrum,2938475622,CUST-1091
+27,PhD,IL,Divorced,Work Visa,Matteo Hurst,9182736462,CUST-1092
+54,High School,TX,Widowed,Work Visa,Emery Tatum,3847561032,CUST-1093
+55,High School,Offshore,Married,Non-Resident,Adeline Vickers,8473629115,CUST-1094
+33,PhD,Remote,Widowed,Citizen,Zion McKnight,1029384763,CUST-1095
+48,Master,Remote,Widowed,Non-Resident,Sienna Roper,5647382924,CUST-1096
+43,Master,Offshore,Widowed,Non-Resident,Jude Winslow,8374651935,CUST-1097
+19,High School,Offshore,Widowed,Permanent Resident,Raegan Dorsey,2938475623,CUST-1098
+62,Bachelor,NY,Married,Non-Resident,Kieran Ashby,9182736463,CUST-1099
+20,Bachelor,CA,Single,Citizen,Tessa Lyle,3847561033,CUST-1100
